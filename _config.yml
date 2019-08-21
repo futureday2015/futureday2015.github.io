@@ -1,5 +1,5 @@
 name: Tengda Shi
 makrdown: kramdown
-# permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
 paginate: 20
 paginate_path: "/blog/page:num/"
